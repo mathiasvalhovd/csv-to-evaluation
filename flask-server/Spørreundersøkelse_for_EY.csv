@@ -1,0 +1,156 @@
+question,Kjønn
+value:,count:
+Kvinne,11
+Mann,27
+Annet,0
+
+question,Linje
+value:,count:
+Datateknologi,24
+Kommunikasjonsteknologi og digital sikkerhet,14
+
+question,Klassetrinn
+value:,count:
+5.,0
+4.,0
+3.,2
+2.,22
+1.,14
+
+question,Virker de daglige arbeidsoppgavene til bedriften interessante?
+value:,count:
+Veldig interessant,25
+Interessant,12
+Noe interessant,1
+Lite interessant,0
+Ikke interessant,0
+
+question,Hvilke av disse egenskapene tror du bedriften kan tilby?
+value:,count:
+Profesjonell opplæring,36
+Konkurransedyktig lønn,26
+Innovasjon,25
+Vennlig jobbmiljø,32
+Kreativt og dynamisk jobbmiljø,33
+Attraktive produkter og tjenester,24
+Ingen av alternativene,0
+
+question,Hva er ditt inntrykk av det sosiale miljøet i bedriften?
+value:,count:
+Veldig bra,17
+Bra,19
+Middels,2
+Dårlig,0
+Veldig dårlig,0
+
+question,Kunne du tenke deg å jobbe for denne bedriften?
+value:,count:
+Ja,38
+Nei,0
+
+question,Hva er ditt inntrykk av arbeidsvilkårene i bedriften?
+value:,count:
+Veldig bra,17
+Bra,21
+Middels,0
+Dårlig,0
+Veldig dårlig,0
+
+question,Hva er din helhetsvurdering av bedriften?
+value:,count:
+Veldig interessant,26
+Ok,6
+Lite interessant,0
+Ikke interessant,0
+Interessant,6
+
+question,Hvordan gikk minglingen etter presentasjonen?
+value:,count:
+Veldig bra,19
+Bra,17
+Middels,2
+Dårlig,0
+Veldig dårlig,0
+
+question,Hva synes du om innholdet i presentasjonen?
+value:,count:
+Veldig bra,20
+Bra,17
+Middels,1
+Dårlig,0
+Veldig dårlig,0
+
+question,Hva synes du om fremføringen av presentasjonen?
+value:,count:
+Veldig bra,25
+Bra,12
+Middels,1
+Dårlig,0
+Veldig dårlig,0
+
+question,Hvor mye visste du om bedriften før presentasjonen?
+value:,count:
+Veldig mye,1
+Mye,3
+Noe,14
+Lite,5
+Veldig lite,15
+
+question,Hva vet du om bedriften etter presentasjonen?
+value:,count:
+Veldig mye,6
+Mye,26
+Noe,6
+Lite,0
+Veldig lite,0
+
+question,Hvordan var informasjonen om sommerjobber og ledige stillinger?
+value:,count:
+Svært god,6
+God,14
+Ok,12
+Mangelfull,6
+Svært mangelfull,0
+
+question,Hvordan fikk du høre om bedriftspresentasjonen?
+value:,count:
+#Weekly på abakus.no,1
+Abakus.no,35
+Annet,0
+Plakater,0
+Medlemmer av Bedkom,1
+Venner,17
+Facebook,0
+Plakater på campus,0
+Instagram,1
+
+Om minglingen: Hva kunne vært bedre og hvordan?
+answer:
+Kunne vært kult om de roterte rundt på bedreppene da de hadde med folk fra ulike avdlinger slik at man kunne fått innblikk i alle avdelingene
+Usikker
+"Lite mulighet til å snakke med flere av bedrep-ene. Satt stort sett sammen med 1 av de hele kvelden. Kunne vært mer rom for mingling, mulig stående mingling før middag feks."
+Syntes vel egentlig at det var ganske greit som det var.
+Bed rep gikk etter ~30 min
+Bra
+""
+
+Om presentasjonen: Hva kunne vært bedre og hvordan?
+answer:
+Rakk ikke å gå gjennom bedriftens sosiale og sportslige aktiviteter
+"Litt mange innslag om eksempelprosjekter de har vært med på, så de ble litt korte innslag. Kunne hatt litt færre og utdypet enda mer om hva prosjektet gikk ut på og hvordan teamet jobbet."
+Kunne kanskje vært mer om hvordan en gjennomsnittlig arbeidsdag ser ut.
+Var grunnet tid: ble litt forhastet mot slutten
+Var litt vanskelig å få med seg hva som ble sagt til tider sider det ikkke ble brukt mikrofon
+
+Hva kunne du tenke deg at bedriften skal prate om ved neste anledning?
+answer:
+Vise frem et prosjekt en summer intern har jobbet med. Fikk ikke noe inntrykk av hva tidligere interns har gjort i bedriften.
+Sosiale og sportslige aktiviteter
+Prate litt mer om hvordan en vanlig jobbhverdag ser ut.
+Det er jo da igjen det med hvordan en gjennomsnittlig arbeidsdag ser ut.
+
+Har du noen sluttkommentarer om hva som var bra eller hva som kunne vært bedre? Spesifiser om det er til bedriften eller Bedkom.
+answer:
+Sytes det var bra totalt sett.
+"Til EY: Synes det var veldig kult at de ga ut premier basert på innholdet i presentasjonen, gjorde at det var mye mer engasjerende å følge med. Var også veldig kult at vi snakket live med en fra Abu Dhabi. En av de bedre bedpressene jeg har vært på."
+
